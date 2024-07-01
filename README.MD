@@ -1,8 +1,8 @@
 # 🌟 Учебный проект по миграциям базы данных с использованием Alembic и FastAPI
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0.95.2-brightgreen(https://fastapi.tiangolo.com))
-![Python](https://img.shields.io/badge/Python-3.8+-blue(https://www.python.org/downloads/release/python-380))
-![Alembic](https://img.shields.io/badge/Alembic-1.7.7-orange(https://alembic.sqlalchemy.org/en/latest))
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.95.2-brightgreen)](https://fastapi.tiangolo.com/)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/downloads/release/python-380/)
+[![License](https://img.shields.io/badge/License-MIT-yellowgreen)](LICENSE)
 
 ## 🎯 Особенности
 
